@@ -4,8 +4,10 @@ background-blur-radius = 20
 cursor-style = block
 cursor-style-blink = true
 
+custom-shader = shaders/bloom.glsl
+
 font-family = GohuFont 11 Nerd Font
-font-size = 20
+font-size = 16
 font-thicken = true
 
 macos-titlebar-style = hidden
@@ -14,6 +16,5 @@ shell-integration-features = no-cursor
 
 theme = Apple System Colors
 
-window-padding-balance=true
+window-padding-balance = true
 window-theme = dark
-
