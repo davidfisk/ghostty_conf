@@ -4,7 +4,8 @@ background-blur-radius = 20
 cursor-style = block
 cursor-style-blink = true
 
-custom-shader = shaders/bloom.glsl
+custom-shader = shaders/bloom75.glsl
+# custom-shader = shaders/bettercrt.glsl
 
 font-family = GohuFont 11 Nerd Font
 font-size = 16
