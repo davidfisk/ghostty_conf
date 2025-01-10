@@ -5,7 +5,7 @@ background = #000000
 cursor-style = block
 cursor-style-blink = true
 
-custom-shader = shaders/bloom.glsl
+custom-shader = shaders/bloom75.glsl
 # custom-shader = shaders/bettercrt.glsl
 # custom-shader = shaders/drive-home.glsl
 
