@@ -13,6 +13,8 @@ font-family = GohuFont 11 Nerd Font
 font-size = 16
 # font-thicken = true
 
+link-url = true
+
 macos-titlebar-style = hidden
 
 # shell-integration-features = no-cursor
