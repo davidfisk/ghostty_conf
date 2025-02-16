@@ -5,8 +5,9 @@ background = #000000
 cursor-style = block
 cursor-style-blink = true
 
-custom-shader = shaders/bloom_custom.glsl
-# custom-shader = shaders/bettercrt.glsl
+# custom-shader = shaders/bloom_custom.glsl
+# custom-shader = shaders/pixels.glsl
+# custom-shader = shaders/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix.glsl
 # custom-shader = shaders/drive-home.glsl
 
 font-family = GohuFont 11 Nerd Font
