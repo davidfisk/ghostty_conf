@@ -1,16 +1,13 @@
-background-opacity = 0.70
-background-blur-radius = 8
+background-opacity = 0.90
+# background-blur-radius = 3
 background = #000000
+
+mouse-hide-while-typing = true
 
 cursor-style = block
 cursor-style-blink = true
 
-# custom-shader = shaders/bloom_custom.glsl
-# custom-shader = shaders/pixels.glsl
-# custom-shader = shaders/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix.glsl
-# custom-shader = shaders/drive-home.glsl
-
-font-family = GohuFont 11 Nerd Font
+font-family = JetBrains Mono Nerd Font
 font-size = 24
 # font-thicken = true
 
