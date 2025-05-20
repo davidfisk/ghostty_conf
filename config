@@ -17,7 +17,7 @@ macos-titlebar-style = hidden
 
 # shell-integration-features = no-cursor
 
-theme = catppuccin-mocha
+theme = Builtin Pastel Dark
 
 window-padding-balance = true
 window-theme = dark
